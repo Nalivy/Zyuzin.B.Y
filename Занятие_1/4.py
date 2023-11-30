@@ -1,5 +1,4 @@
-#!/usr/bin/python3
-# -*- coding: utf-8 -*-
+# -- coding: utf-8 --
 second=float(input("Введите колличество секунд: "))
 minuts=float(second / 60)
 hours=float(second / 3600)

@@ -1,4 +1,3 @@
-#!/usr/bin/python3
 # -- coding: utf-8 --
 n = int(input('Введите число минут: '))
 h = n % (60 * 24) // 60

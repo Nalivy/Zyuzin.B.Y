@@ -1,5 +1,4 @@
-#!/usr/bin/python3
-# -*- coding: utf-8 -*-
+# -- coding: utf-8 --
 age=(int(input("Введите ваш возраст: ")))
 name=input("Введите ваше имя: ")
 if age > 0 and age < 75:
